@@ -42,3 +42,36 @@ LCD-show
 
   sudo ./LCD28-show
 
+Wiring Diagram:
+===============
+
+* **LCD** 
+
+SDO - PIN 21/SPMISO
+
+LED - PIN 17/3.3v
+
+SCK - PIN 23/SPSCLK
+
+SDI - PIN 19/SPMOSI
+
+DC - PIN 15/GPIO22
+
+RESET - PIN 13/GPIO27
+
+CS - PIN 24/SPCE0
+
+GND - PIN 6/GND
+
+VCC - PIN 1/3.3v
+
+* **BME280**
+
+* **MCP3008**
+
+
+
+
+
+
+
