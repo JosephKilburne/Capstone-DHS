@@ -1,6 +1,8 @@
-# Capstone-DHS
+Capstone-DHS
+=============
 
 Dependencies:
+=============
 
 Adafruit Blinka
 
