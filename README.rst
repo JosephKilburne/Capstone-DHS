@@ -26,7 +26,7 @@ Adafruit ADC
 
   sudo python setup.py install
 
-  https://github.com/adafruit/Adafruit_CircuitPython_MCP3xxx/
+  sudo pip3 install adafruit-circuitpython-mcp3xxx
 
 Adafruit BME280
 
