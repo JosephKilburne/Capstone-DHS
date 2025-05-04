@@ -32,6 +32,14 @@ LCD-show
 
   sudo ./LCD28-show
 
+Azure IoT
+
+.. code-block:: shell
+
+    pip3 install azure-iot-device
+
+    pip3 install azure-iot-hub-api
+
 Wiring Diagram:
 ===============
 
