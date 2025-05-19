@@ -1,6 +1,10 @@
 Capstone-DHS
 =============
 
+https://mymasonportal.gmu.edu/bbcswebdav/xid-352777553_1
+
+https://mechanical.gmu.edu/hands/senior-design-capstone
+
 Dependencies:
 =============
 
